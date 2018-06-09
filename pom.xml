@@ -45,7 +45,7 @@
         <url>http://192.168.122.118:8081/nexus/content/repositories/vijay/</url>
     </repository>
     <snapshotRepository>
-        <id>cts-nexus</id>
+        <id>deployment</id>
         <name>bd7e4d6b271d-snapshots</name>
         <url>http://192.168.122.118:8081/nexus/content/repositories/vijaysnapshot/</url>
     </snapshotRepository>
